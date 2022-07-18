@@ -1,5 +1,9 @@
 ### Hi there, I'm Sachin 👋
 
+## I'm a Software Developer!
+
+[linkedin]: https://www.linkedin.com/in/sachin-devatar/
+
 <!--
 **SachinDevatar7/SachinDevatar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +20,4 @@ Here are some ideas to get you started:
 
 --!>
 
-## I'm a Software Developer!
 
-[linkedin]: https://www.linkedin.com/in/sachin-devatar/
